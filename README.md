@@ -1,11 +1,9 @@
-# 150
-
 <!DOCTYPE HTML>
 
 <html>
 
 <head>
-<title> March 26, 2019 </title>
+ March 26, 2019 
 <meta name="keywords" content = "basketball, carolina, new media art">
 </head>
 
